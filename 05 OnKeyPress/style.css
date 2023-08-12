@@ -1,0 +1,12 @@
+#display{
+    color: rgb(185, 40, 205);
+}
+
+#display-text{
+    font-size: 30px;
+    border-radius: 10px;
+    background-color: rgb(243, 229, 212);
+    color: rgb(0, 0, 0);
+}
+
+
